@@ -36,4 +36,4 @@ ESP32-Ducky-Pro/
 │   └── main.cpp       # The source code provided
 ├── data/              # (Optional) For initial file uploads
 ├── platformio.ini     # Configuration below
-└── README.md
+└── README.
